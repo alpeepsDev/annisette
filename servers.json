@@ -109,7 +109,12 @@
       "name": "Lill q",
       "address": "https://anisette.lillq.me",
       "kind": 2
-    }
+    },
+    {
+      "name": "Pay",
+      "address": "https://anisette-v3-server-oey7.onrender.com/",
+      "kind": 0
+    },
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
